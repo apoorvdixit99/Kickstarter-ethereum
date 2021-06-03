@@ -1,0 +1,9 @@
+npm init
+npm install --save web3@1.0.0-beta.26 ganache-cli@6.0.3 truffle-hdwallet-provider@0.0.3 mocha@4.0.1 solc@0.4.17 fs-extra
+
+npm install --save next@4.1.4 react@16.2.0 react-dom@16.2.0
+
+npm install --save semantic-ui-react@0.77.1
+npm install --save semantic-ui-css
+
+npm install --save next-routes@1.2.0
